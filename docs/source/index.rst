@@ -1,24 +1,13 @@
-Welcome to Lumache's documentation!
-===================================
+Benvenuti/e su InfoAikido
+=========================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-Lumache has its documentation hosted on Read the Docs...
+Benvenut@ su **InfoAikido**, il tuo manuale online completo dedicato all'Aikido! Questo sito su ReadTheDocs è il luogo ideale per esplorare e approfondire le tecniche, la filosofia e tutto ciò che riguarda l'Aikido. Sviluppato con cura, InfoAikido fornisce una risorsa chiara e organizzata per praticanti di ogni livello, dal principiante all'esperto. Troverai guide dettagliate sulle tecniche fondamentali, approfondimenti sulla storia e i principi dell'Aikido, e risorse pratiche per arricchire la tua esperienza. Che tu stia iniziando il tuo viaggio nell'Aikido o cerchi approfondimenti avanzati, InfoAikido è qui per accompagnarti. Esplora, impara e approfondisci la tua comprensione di questa affascinante arte marziale giapponese.
 
 .. note::
 
-   This project is under active development.
+   Questo progetto è ancora in via di sviluppo.
 
-Contents
---------
+Indice
+------
 
 .. toctree::
-
-   usage
-   api
