@@ -7,23 +7,38 @@ Benvenut@ su **InfoAikido**, il tuo manuale online completo dedicato all'Aikido!
 
    Questo progetto è ancora in via di sviluppo.
 
+.. Filosofia
+.. Storia
+.. Pratica
+..   Il Gi
+..   Cadute
+..   Guardie
+..   Tai Sabaki (tenkan, kaiten, irimi, ...)
+..   Prese
+..   Attacchi
+..   Tecniche in Suwari Waza
+..   Tecniche in Hanmi Hantachi Waza
+..   Tecniche in Tachi Waza
+..   Randori
+..   Armi
+..   Tecniche di Jo
+..   Tecniche di Bokken
+..   Tecniche di Tanto
+..   Kata
+..   Kata di Jo
+..   Kata di Bokken
+..   Aikitaiso
+..   Ma-Ai (distanza)
+..   Zanshin (vigilanza)
+..   Kokyu (respiro)
+..   Kuzushi (destabilizzazione)
+.. Gradi ed Esami
+.. Parole Giapponesi
+
+
 Indice
 ------
 
 .. toctree::
    :maxdepth: 2
 
-   Cadute
-   Guardie
-   Prese
-   Attacchi
-   Tecniche in Suwari Waza
-   Tecniche in Hanmi Hantachi Waza
-   Tecniche in Tachi Waza
-   Armi
-   Tecniche di Jo
-   Tecniche di Bokken
-   Tecniche di Tanto
-   Kata
-   Kata di Jo
-   Kata di Bokken
