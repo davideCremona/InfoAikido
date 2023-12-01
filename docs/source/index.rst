@@ -11,3 +11,19 @@ Indice
 ------
 
 .. toctree::
+   :maxdepth: 2
+
+   Cadute
+   Guardie
+   Prese
+   Attacchi
+   Tecniche in Suwari Waza
+   Tecniche in Hanmi Hantachi Waza
+   Tecniche in Tachi Waza
+   Armi
+   Tecniche di Jo
+   Tecniche di Bokken
+   Tecniche di Tanto
+   Kata
+   Kata di Jo
+   Kata di Bokken
