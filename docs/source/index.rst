@@ -36,13 +36,13 @@ Benvenut@ su **InfoAikido**, il tuo manuale online completo dedicato all'Aikido!
 .. Parole Giapponesi
 
 
-.. Indice
-.. ------
-
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Indice:
 
    sections/filosofia.rst
    sections/storia.rst
+   sections/pratica.rst
+   sections/gradi_ed_esami.rst
+   sections/parole_giapponesi.rst
 
