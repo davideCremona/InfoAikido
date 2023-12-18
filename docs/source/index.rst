@@ -36,8 +36,8 @@ Benvenut@ su **InfoAikido**, il tuo manuale online completo dedicato all'Aikido!
 .. Parole Giapponesi
 
 
-Indice
-------
+.. Indice
+.. ------
 
 .. toctree::
    :maxdepth: 2
