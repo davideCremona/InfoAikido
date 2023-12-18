@@ -41,4 +41,8 @@ Indice
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
+
+   sections/filosofia.rst
+   sections/storia.rst
 
